@@ -16,5 +16,5 @@ this repo lacks proper documentation. will work on this soon (hopefully).
 you can read all the details of the process from the reports in this google drive: 
     https://drive.google.com/drive/folders/1gCPUUukrpl6zu4QzFoHcvheF1mpIcj-K?usp=sharing
     
-for any inquiry, email me: alighazal@aucegypt.edu
+for any inquiry, email me: alighazal@aucegypt.edu and omermosa@aucegypt.edu
 
