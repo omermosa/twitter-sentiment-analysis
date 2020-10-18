@@ -1,6 +1,6 @@
 # twitter-sentiment-analysis
 
-this repo includes my effort (alighazal) with my friend Omer Moussa (omermosa) on implementing twitter sentiment analysis. 
+this repo includes my effort (alighazal) with my friend Omer Moussa (omermosa) on implementing twitter sentiment analysis. This was done as a part of the ML course at AUC
 
 we combined two datasets (a total of 2.6 Million tweets): 
 
